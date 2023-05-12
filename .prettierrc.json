@@ -1,6 +1,9 @@
 {
-  "singleQuote": false,
+  "singleQuote": true,
   "semi": true,
+  "--no-semi": true,
   "printWidth": 80,
-  "bracketSpacing": true
+  "--use-tabs": false,
+  "--no-bracket-spacing": true,
+  "--arrow-parens <always|avoid>": "always"
 }
